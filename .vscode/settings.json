@@ -1,0 +1,33 @@
+{
+  "cSpell.words": [
+    "addtocart",
+    "barcodes",
+    "craco",
+    "Flatpickr",
+    "getallsessions",
+    "getcustomersession",
+    "productinfo",
+    "qrbox",
+    "Qrcode",
+    "reduxjs",
+    "removecart",
+    "removecustomersession",
+    "Satocci",
+    "UNINSTANTIATED",
+    "updatecart",
+    "Verticaltical"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
